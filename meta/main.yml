@@ -1,0 +1,20 @@
+galaxy_info:
+  author: Adrian Likins
+  description: Is this a role or a collection
+  company: Red Hat
+
+  license: BSD
+
+  min_ansible_version: 2.4
+
+  platforms:
+    - name: EL
+      versions:
+        - all
+
+  galaxy_tags:
+    - mystery
+    - enigma
+    - riddle
+
+dependencies: []
