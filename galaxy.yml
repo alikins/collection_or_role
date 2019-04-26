@@ -1,6 +1,6 @@
 namespace: "alikins"
 name: "collection_or_role"
-version: "2.1111.7"
+version: "2.1111.8"
 description: "a collection with requirements.yml"
 authors: ["Adrian Likins"]
 license:
