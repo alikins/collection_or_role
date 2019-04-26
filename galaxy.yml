@@ -1,8 +1,9 @@
 namespace: "alikins"
 name: "collection_or_role"
-version: "2.1111.6"
+version: "2.1111.7"
 description: "a collection with requirements.yml"
 authors: ["Adrian Likins"]
-license: "GPL-3.0-or-later"
+license:
+  - "GPL-3.0-or-later"
 readme: "README.md"
-dependencies: []
+dependencies: {}
